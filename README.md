@@ -1,6 +1,9 @@
 # foxbadge
 My Fallout Badge (@Hack Club)
 
+by
+@scharonowmark
+
 ## Project Description
 The project presented in this Repository is a versatile "Hacker-Badge" which has the following features:
 1. Seeeduino XIAO ESP32-C6 as the main processor
